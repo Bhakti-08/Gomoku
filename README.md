@@ -1,0 +1,2 @@
+# Gomoku
+Parallelizing Gomoku Game
