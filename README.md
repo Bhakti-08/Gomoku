@@ -23,6 +23,20 @@ At the end of the game, the winner is displayed on the screen.
 
 ### *Analysis and Efficiency Metrics:*
 The code allows for the analysis of speed-up and efficiency for different core configurations and board sizes. This capability is useful for evaluating the performance of parallel algorithms in board games.
-![image](https://github.com/Bhakti-08/Gomoku-Parallelization-with-Ray/assets/103896834/1d765254-3845-4b7f-b88f-04f6330aabf3)
+
+
+<p align="center">
+  <img src="https://github.com/Bhakti-08/Gomoku-Parallelization-with-Ray/assets/103896834/97bcf272-1b7c-42d1-99ab-17381e3be1df" alt="gomoku"/>
+</p>
+
+
+<p align="center">Figure 1: Gomoku Board</p>
+
+
+<p align="center">
+  <img src="https://github.com/Bhakti-08/Gomoku-Parallelization-with-Ray/assets/103896834/95f65924-8a5a-471e-9498-07bb7299a9da" alt="Analysis"/>
+</p>
+
+<p align="center">Figure 2: Graphical Analysis</p>
 
 This code serves as a valuable resource for understanding various techniques for parallelizing board games and testing the efficiency of parallel algorithms. It is particularly suitable for individuals interested in learning about parallel programming using Python.
