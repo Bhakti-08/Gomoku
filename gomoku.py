@@ -174,7 +174,7 @@ def speedup(serial_time, parallel_time):
     return serial_time / parallel_time
 
 def main():
-    # initializing ray with restricted cores
+    # initializing ray with given number of cores (here it is 2 cores)
     ray.init(num_cpus=2)
 
     # get the resources available to Ray
